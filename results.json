@@ -1,0 +1,98 @@
+{
+    "BW": {
+        "./images/black&white\\baboon_BW.bmp": {
+            "Encode": 0.054,
+            "Compression Ratio": 3.387,
+            "Decode": 0.142,
+            "Equality": "True"
+        },
+        "./images/black&white\\butterfly_BW.bmp": {
+            "Encode": 0.063,
+            "Compression Ratio": 0.813,
+            "Decode": 0.143,
+            "Equality": "True"
+        },
+        "./images/black&white\\house_BW.bmp": {
+            "Encode": 0.063,
+            "Compression Ratio": 0.407,
+            "Decode": 0.133,
+            "Equality": "True"
+        },
+        "./images/black&white\\lenna_BW.bmp": {
+            "Encode": 0.06,
+            "Compression Ratio": 0.378,
+            "Decode": 0.123,
+            "Equality": "True"
+        },
+        "./images/black&white\\splash_BW.bmp": {
+            "Encode": 0.059,
+            "Compression Ratio": 0,
+            "Decode": 0.115,
+            "Equality": "True"
+        }
+    },
+    "4bit": {
+        "./images/4bit\\baboon_4bit.bmp": {
+            "Encode": 0.177,
+            "Compression Ratio": 1.04,
+            "Decode": 0.724,
+            "Equality": "True"
+        },
+        "./images/4bit\\butterfly_4bit.bmp": {
+            "Encode": 0.166,
+            "Compression Ratio": 0.721,
+            "Decode": 0.487,
+            "Equality": "True"
+        },
+        "./images/4bit\\house_4bit.bmp": {
+            "Encode": 0.148,
+            "Compression Ratio": 0.714,
+            "Decode": 0.481,
+            "Equality": "True"
+        },
+        "./images/4bit\\lenna_4bit.bmp": {
+            "Encode": 0.163,
+            "Compression Ratio": 0.623,
+            "Decode": 0.428,
+            "Equality": "True"
+        },
+        "./images/4bit\\splash_4bit.bmp": {
+            "Encode": 0.128,
+            "Compression Ratio": 0.517,
+            "Decode": 0.327,
+            "Equality": "True"
+        }
+    },
+    "8bit": {
+        "./images/8bit\\baboon_8bit.bmp": {
+            "Encode": 0.186,
+            "Compression Ratio": 0.929,
+            "Decode": 1.245,
+            "Equality": "True"
+        },
+        "./images/8bit\\butterfly_8bit.bmp": {
+            "Encode": 0.158,
+            "Compression Ratio": 1.063,
+            "Decode": 1.291,
+            "Equality": "True"
+        },
+        "./images/8bit\\house_8bit.bmp": {
+            "Encode": 0.114,
+            "Compression Ratio": 0.627,
+            "Decode": 0.583,
+            "Equality": "True"
+        },
+        "./images/8bit\\lenna_8bit.bmp": {
+            "Encode": 0.123,
+            "Compression Ratio": 0.534,
+            "Decode": 0.468,
+            "Equality": "True"
+        },
+        "./images/8bit\\splash_8bit.bmp": {
+            "Encode": 0.099,
+            "Compression Ratio": 0.422,
+            "Decode": 0.344,
+            "Equality": "True"
+        }
+    }
+}
