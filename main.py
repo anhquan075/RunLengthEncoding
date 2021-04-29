@@ -25,10 +25,9 @@ def decodeImage(path):
 	print("Decoded file saved to: " + newfilepath)
 
 if __name__ == '__main__':
-	parser = argparse.ArgumentParser(description = 'utils Encoder. Serdar Ormanlı 2014')
+	parser = argparse.ArgumentParser()
 	parser.add_argument('-e', '--encode', help = 'Image to encode.')
 	parser.add_argument('-d', '--decode', help = 'Compressed file to decode.')
-	parser.add_argument('-s', '--scanning', help = 'Works if encoding is set. Can be R, RR, ZZ, C, CR.')
 
 	args = parser.parse_args()
 
