@@ -1,9 +1,3 @@
-'''
-Nguyen Le Anh Quan - 19522081
-Tham khao tu source: https://github.com/ormanli/run-length-encoding
-
-'''
-
 import unittest
 from PIL import Image
 import os
